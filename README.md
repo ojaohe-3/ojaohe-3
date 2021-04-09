@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on having fun, a good day and most importantly peace and love.
 - 📫 How to reach me
 email:
-ojaohe-3@student.ltu.se
+ojaohe-3@student.ltu.se,
 Itgsod.johan.holmgren@gmail.com 
 Phone:
 +46706366871
