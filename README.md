@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ojaohe-3 Or Johan RH Student on Luleå Technical University 4 year, Computer science/engineering
 - 👀 I’m interested in Sleeping... I code only most of the time
-- 🌱 I’m currently learning Haskell, C++, Rust, GO
+- 🌱 I’m currently learning C++, Rust, GO
 - 💞️ I’m looking to collaborate on having fun, a good day and most importantly peace and love.
 - 📫 How to reach me
 email:
